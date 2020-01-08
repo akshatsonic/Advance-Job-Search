@@ -1,0 +1,27 @@
+.h{
+  text-align: center;
+  background-color: rgba(61, 69, 67,0.5);
+  color: rgb(208, 224, 135);
+}
+.main{
+
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+}
+.a{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+body{
+  background-image: url("back.jpg");
+  background-attachment: fixed;
+}
+#sk1{
+  width: 30%;
+  marg
+
+}
+.but{
+  margin-left: 45%;
+}

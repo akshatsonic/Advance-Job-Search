@@ -1,0 +1,15 @@
+body{
+  background-image: url("back.jpg");
+  background-attachment: fixed;
+}
+.card{
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 5%;
+}
+.head{
+  text-align: center;
+  background-color: rgba(61, 69, 67,0.5);
+  color: rgb(208, 224, 135);
+}
